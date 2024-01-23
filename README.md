@@ -1,6 +1,6 @@
 ### Hi there 👋, I go by Success
 #### Builidng and Deploying ML solutions
-![Builidng and Deploying ML solutions]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Esuola/Esuola/blob/main/github-header-image.png))
+![Builidng and Deploying ML solutions]((https://github.com/Esuola/Esuola/blob/main/github-header-image.png))
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
