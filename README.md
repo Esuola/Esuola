@@ -1,14 +1,8 @@
-### Hi there 👋, I go by Success
-#### Builidng and Deploying ML solutions
 ![Builidng and Deploying ML solutions](https://github.com/Esuola/Esuola/blob/main/github-header-image.png)
+### Hi there 👋, I'm Success
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
+I have and a deep fascination for artificial intelligence, I specialize in designing, developing, and deploying innovative machine-learning models that drive progress and efficiency. At the heart of my work is a commitment to continuous learning and improvement. I'm always on the hunt for challenging problems to solve and new technologies to explore. My GitHub is a canvas where I paint my journey through the ever-evolving landscape of machine learning - from experimenting with neural networks to optimizing algorithms for maximum efficiency. Whether it's contributing to open-source projects or developing bespoke solutions for unique challenges, I believe in the power of collaboration and sharing knowledge. Feel free to browse through my repositories and don't hesitate to reach out if you're interested in collaborating or just want to chat about the latest trends in AI and machine learning.
 Skills: Python/ SQL/ Excel VBA
-
-- 🔭 I’m currently working on this page. 
-
-
 
 
 
