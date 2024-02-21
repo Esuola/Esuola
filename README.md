@@ -4,7 +4,7 @@
 I have a deep fascination for artificial intelligence, and I specialize in designing, developing, and deploying innovative machine-learning models that drive progress and efficiency. I'm always on the hunt for challenging problems to solve and new technologies to explore. My GitHub is a canvas where I paint my journey through the ever-evolving landscape of machine learning - from experimenting with neural networks to optimizing algorithms for maximum efficiency. Feel free to browse through my repositories and don't hesitate to reach out if you're interested in collaborating or just want to chat about the latest trends in AI and machine learning.
 
 #### Skills: 
-- Python - Flask, OpenAI, HugginFace, Tensorflow 
+- Python - Flask, OpenAI, HugginFace, Tensorflow
 - SQL
 - Excel VBA
 
